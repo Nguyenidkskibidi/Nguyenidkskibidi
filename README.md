@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently studying at the Đặng Tấn Tài Secondary School in HCM City<br>I like and great at the JavaScript, TypeScript, React, Java,... and I hate Python and Scratch because... IDK?<br>My best teacher is my ICT Teacher Vũ Ngọc Khang! He's having an GitHub account at there! If you have a time trying to visit his site!<br>I like Doraemon... so... can you give me 1? Nah joke :)))<br>I'm appriciate if you help me (nuh uh not give me coffee or something cuz i'm just a kids, i say like you helping me in my project) tks :)
+I’m currently studying at the Đặng Tấn Tài Secondary School in HCM City<br>I like and great at the JavaScript, TypeScript, React, Java,... and I hate Python and Scratch because... IDK?<br>My best teacher is my ICT Teacher Vũ Ngọc Khang! He's having an GitHub account at there! If you have a time trying to visit his site!<br>I like Doraemon... so... can you give me 1? Nah joke :)))<br>I'm appriciate if you help me (nuh uh not give me coffee or something cuz i'm just a kids.<br>I will appriciate if you can helping me in my project) tks :)
 
 
 ## 🌐 Socials:
@@ -26,8 +26,10 @@ I’m currently studying at the Đặng Tấn Tài Secondary School in HCM City<
 
 # Alright byeeeee!
 
-[![](https://pbs.twimg.com/media/FoHXg5caUAEFrUq?format=jpg&name=large)
+![](https://pbs.twimg.com/media/FoHXg5caUAEFrUq?format=jpg&name=large)
 ### But i like Mahiro too :)
 
 
 ![](https://i.pinimg.com/originals/e3/64/64/e364649ac3eff95afab40d85775562d0.jpg)
+
+So can you help me
