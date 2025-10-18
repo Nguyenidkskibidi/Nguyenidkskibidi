@@ -27,6 +27,7 @@ I’m currently studying at the Đặng Tấn Tài Secondary School in HCM City<
 # Alright byeeeee!
 
 [![](https://pbs.twimg.com/media/FoHXg5caUAEFrUq?format=jpg&name=large)
-But i like Mahiro too :)
+### But i like Mahiro too :)
 
-[![](https://i.pinimg.com/originals/e3/64/64/e364649ac3eff95afab40d85775562d0.jpg)
+
+![](https://i.pinimg.com/originals/e3/64/64/e364649ac3eff95afab40d85775562d0.jpg)
