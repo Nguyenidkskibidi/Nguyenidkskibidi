@@ -21,6 +21,10 @@ I’m currently studying at the Đặng Tấn Tài Secondary School in HCM City<
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nguyenidkskibidi&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
+# Yo
+i know you tired when you scroll? Alright, just want a song Vibe huh? Alright, click the button below:
+[![Listen 🎧](https://img.shields.io/badge/Listen%Ending%20Song%20Of%20Onimai!-Onimai%20End%20Song!-ff69b4?style=for-the-badge&logo=youtube)](https://youtu.be/53MsnhKmTIc?si=8hXr_f-i1rnoN5CP)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Nguyenidkskibidi&icon=0&color=13)](https://visitcount.itsvg.in)
 
