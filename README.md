@@ -22,15 +22,14 @@ I’m currently studying at the Đặng Tấn Tài Secondary School in HCM City<
 ![](https://github-contributor-stats.vercel.app/api?username=Nguyenidkskibidi&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 # Yo
-i know you tired when you scroll? Alright, just want a song Vibe huh? Alright, click the button below:
-[![Listen 🎧](https://img.shields.io/badge/Listen%Ending%20Song%20Of%20Onimai!-Onimai%20End%20Song!-ff69b4?style=for-the-badge&logo=youtube)](https://youtu.be/53MsnhKmTIc?si=8hXr_f-i1rnoN5CP)
+i know you have been tired when you scroll? Alright, just want a song Vibe huh? Alright, click the button below:
+[Link here!] (https://youtu.be/NnwZ7kKA2vY?si=81BF8Asud3GI9a8G)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nguyenidkskibidi&icon=0&color=13)](https://visitcount.itsvg.in)
 
 # Alright byeeeee!
 
-![](https://pbs.twimg.com/media/FoHXg5caUAEFrUq?format=jpg&name=large)
-### But i like Mahiro too :)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRtgpqTonLWW7LZy1rSQ4jiSIWRcEURPJ-Tw&s)
 
-![](https://i.pinimg.com/originals/e3/64/64/e364649ac3eff95afab40d85775562d0.jpg)
+
