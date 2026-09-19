@@ -61,7 +61,7 @@
 - 📍 **Quê quán thân thương:** **Thành phố Hà Tĩnh**, tỉnh Hà Tĩnh 🇻🇳.
 - 💻 **Kỹ năng & Sở trường:** Đam mê nghiên cứu chuyên sâu về **C++20, JavaScript, TypeScript, React, Java**, thuật toán tối ưu độ trễ nano và phần cứng vi điều khiển (ESP32/FreeRTOS).
 - 🐍 **Góc thú nhận về Python:** Tự nhận mình **dở Python**, nhưng ít ra khi cần thì vẫn nhào nặn ra được tí app chạy mượt mà ngon lành cành đào 😆!
-- 👨‍🏫 **Người thầy thắp lửa đam mê:** Lòng biết ơn sâu sắc gửi tới **Thầy dạy Tin học: [Vũ Ngọc Khang (@ngockhang13)](https://github.com/ngockhang13)**! Thầy là người đã truyền cảm hứng và động lực to lớn cho mình trên con đường chinh phục khoa học máy tính! (à thì chắc giờ thầy bay acc rồi, xin lỗi nhen)
+- 👨‍🏫 **Người thầy thắp lửa đam mê:** Lòng biết ơn sâu sắc gửi tới **Thầy dạy Tin học: Vũ Ngọc Khang** (mà tiếc là nick GitHub của thầy bị bay acc rồi, mọi người thông cảm nhen 😭)! Thầy là người đã truyền cảm hứng và động lực to lớn cho mình trên con đường chinh phục khoa học máy tính!
 - 🐱 **Hội cuồng Doraemon:** Mê Doraemon từ thuở bé tí! Ước gì có con mèo máy thế kỷ 22 bên cạnh hỗ trợ fix bug... (Nói giỡn chớ tự tay code ra bảo bối cho riêng mình vẫn đã nhất :v).
 - ☕ **Về chuyện Donate Cà Phê:** Ban đầu mình tính gắn link *Buy Me a Coffee* để nhận ủng hộ, nhưng mà nghĩ lại: **chưa đủ tuổi làm tài khoản ngân hàng** với lại **13 tuổi ai cho uống cà phê mất ngủ** nên thôi nhen :))) Thay vào đó, bạn ủng hộ mình bằng cách **thả 1 Star ⭐, góp ý bug hoặc mở Pull Request** là mình vui rớt nước mắt rồi!
 
@@ -73,7 +73,7 @@
 - 🏡 **Hometown:** **Ha Tinh City**, Ha Tinh Province, Vietnam.
 - ⚡ **Technical Arsenal:** Highly focused on **C++20, JavaScript, TypeScript, React, Java**, low-level SIMD optimization, and embedded microcontrollers (ESP32 / FreeRTOS).
 - 🐍 **The Python Confession:** Honestly, I'm pretty bad at Python... but hey, at least I can still whip up some decent, working apps when needed 😆!
-- 🥋 **My Greatest Mentor:** Boundless respect and gratitude to my ICT Teacher **[Vũ Ngọc Khang (@ngockhang13)](https://github.com/ngockhang13)** for igniting my passion for coding and open-source architecture! (I think he's disappeared on GitHub btw)
+- 🥋 **My Greatest Mentor:** Boundless respect and gratitude to my ICT Teacher **Vũ Ngọc Khang** (sadly his GitHub account recently got suspended/lost, apologies about that! 😭) for igniting my passion for coding and open-source architecture!
 - 🔔 **Doraemon Enthusiast:** Die-hard Doraemon fan since day one! Still waiting for a 22nd-century robotic cat to appear from my desk drawer... (Just kidding, coding our own digital gadgets is way more thrilling!).
 - ☕ **The Coffee Donation Story:** I originally planned to put a *Buy Me a Coffee* link here, but then realized: **I'm not old enough for a bank card**, and **13-year-olds shouldn't be drinking strong coffee anyway** haha! If you'd like to support my work, **dropping a Star ⭐ or contributing to my repos** means the absolute world to me!
 
@@ -227,7 +227,7 @@
 <!-- =================================================================================== -->
 <!-- 🎧 SECTION 5: VIBE CHECK & FOOTER TERMINAL                                         -->
 <!-- =================================================================================== -->
-## 🎧 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30" height="30" /> GÓC ÂM NHẠC & VIBE // SONIC TERMINAL
+## 🎧 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30" height="30" /> GÓC ÂM NHẠC & VIBE // DORAEMON SOUNDTRACK 🐱🎶
 
 <div align="center">
 
@@ -239,14 +239,14 @@
 
 <p align="center">
   <a href="https://youtu.be/NnwZ7kKA2vY?si=81BF8Asud3GI9a8G">
-    <img src="https://img.shields.io/badge/PLAY_NOW-PHONK_OVERDRIVE-FF3344?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Track" />
+    <img src="https://img.shields.io/badge/BẬT_NHẠC-YUME_WO_KANAETE_DORAEMON_🔔-0096E6?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Doraemon OST" />
   </a>
 </p>
 
 ```bash
-> SCRIPT: ./launch_chill_vibes.sh --mode=hyperfocus
-> BPM: 140 | GENRE: Cyber Drift Phonk & Synthwave
-> STATUS: Compiling sub-nanosecond binaries with zero memory leaks...
+> SCRIPT: ./play_soundtrack.sh --track="Yume wo Kanaete Doraemon"
+> OST: 夢をかなえてドラえもん (Biến ước mơ thành hiện thực) 🐱✨
+> VIBE: Nhạc Doraemon tuổi thơ chữa lành tâm hồn, sạc 100% năng lượng code xuyên màn đêm!
 ```
 
 <blockquote align="center">
@@ -273,7 +273,7 @@
     <img src="https://img.shields.io/badge/GitHub-Nguyenidkskibidi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://youtu.be/NnwZ7kKA2vY?si=81BF8Asud3GI9a8G">
-    <img src="https://img.shields.io/badge/YouTube-Audio_Frequency-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Nhạc_Doraemon_OST-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://steamcommunity.com">
     <img src="https://img.shields.io/badge/Steam-Player_Grid-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
