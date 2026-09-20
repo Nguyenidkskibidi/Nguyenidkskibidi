@@ -3,7 +3,7 @@
 <!-- =================================================================================== -->
 <!-- 🚀 DYNAMIC HERO CAPSULE BANNER                                                     -->
 <!-- =================================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0096E6,35:1E90FF,70:FFD700,100:FF3344&height=230&section=header&text=KHOI%20NGUYEN%20%E2%9A%A1%20CYBER-DORAEMON&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=%E3%80%90%2022nd%20Century%20Digital%20Gadgeteer%20%E2%80%A2%20Systems%20%26%20Algorithm%20Architect%20%E3%80%91&descSize=16&descAlignY=60&descAlign=50&stroke=0096E6&strokeWidth=1" width="100%" alt="Cyber Doraemon Hero Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0096E6,70:1E90FF,100:FFD700&height=220&section=header&text=KHOI%20NGUYEN%20%E2%9A%A1%20CYBER-DORAEMON&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=22nd%20Century%20Digital%20Gadgeteer%20%E2%80%A2%20Systems%20%26%20Algorithm%20Architect&descSize=16&descAlignY=60" width="100%" alt="Cyber Doraemon Hero Header" />
 
 <!-- =================================================================================== -->
 <!-- ⌨️ DYNAMIC READMETYPE SVG TERMINAL                                                  -->
@@ -291,6 +291,6 @@
 <!-- =================================================================================== -->
 <!-- 🌊 DYNAMIC FOOTER CAPSULE                                                          -->
 <!-- =================================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FFD700,40:0096E6,80:161B22,100:0D1117&height=120&section=footer" width="100%" alt="Cyber Doraemon Footer Capsule" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:0096E6,100:0D1117&height=120&section=footer" width="100%" alt="Cyber Doraemon Footer Capsule" />
 
 </div>
