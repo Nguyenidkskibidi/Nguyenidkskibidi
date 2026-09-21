@@ -32,7 +32,7 @@
 <!-- =================================================================================== -->
 <p align="center">
   <a href="https://github.com/Nguyenidkskibidi">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="Doraemon Take-Copter Flight" />
+    <img src="https://media.giphy.com/media/MWqc0k2qiD1As/giphy.gif" width="220" alt="Cute Doraemon" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 ## 💫 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="30" height="30" /> GIỚI THIỆU BẢN THÂN // ABOUT ME
 
 <div align="center">
-  <img src="https://media.giphy.com/media/4NnPq38aaZX9CQ8Tsm/giphy.gif" width="170" alt="Cyber Doraemon Lab" />
+  <img src="https://media.giphy.com/media/l4EoZ1rJtDfypcna8/giphy.gif" width="190" alt="Doraemon Sleeping" />
 </div>
 
 <br/>
